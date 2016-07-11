@@ -1,0 +1,22 @@
+{
+    "name": "interophp/container",
+    "description": "Placeholder container interface, pending PSR-11",
+    "homepage": "http://www.github.com/interophp/injector",
+    "keywords": ["php", "container", "psr11", "linkorb"],
+    "type": "library",
+    "authors": [
+        {
+            "name":     "LinkORB Engineering",
+            "email":    "engineering@linkorb.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "InteroPhp\\Container\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
