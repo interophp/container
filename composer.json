@@ -1,7 +1,7 @@
 {
     "name": "interophp/container",
     "description": "Placeholder container interface, pending PSR-11",
-    "homepage": "http://www.github.com/interophp/injector",
+    "homepage": "http://www.github.com/interophp/container",
     "keywords": ["php", "container", "psr11", "linkorb"],
     "type": "library",
     "authors": [
